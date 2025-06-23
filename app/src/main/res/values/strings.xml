@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetroglyphCam</string>
+    <string name="btn_capture_desc">Сделать фото</string>
+    <string name="preservation_prompt">Выберите сохранность</string>
+    <string name="search_hint">Поиск по описанию</string>
+    <string name="storage_permission_required">Для работы галереи необходимо разрешение на доступ к хранилищу</string>
+    <string name="no_saved_images">Нет сохраненных изображений</string>
+    <string name="load_error">Ошибка загрузки данных</string>
+</resources>
+

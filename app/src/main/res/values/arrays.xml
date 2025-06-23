@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preservation_levels">
+        <item>Плохая</item>
+        <item>Средняя</item>
+        <item>Хорошая</item>
+        <item>Отличная</item>
+    </string-array>
+</resources>
