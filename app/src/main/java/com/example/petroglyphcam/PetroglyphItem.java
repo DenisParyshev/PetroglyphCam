@@ -25,4 +25,5 @@ public class PetroglyphItem {
     public String getAltitude() { return altitude; }
     public String getPreservation() { return preservation; }
     public String getDate() { return date; }
+
 }

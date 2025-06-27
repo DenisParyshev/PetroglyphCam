@@ -10,6 +10,14 @@
         android:layout_height="wrap_content"
         android:queryHint="Поиск..." />
 
+    <Button
+        android:id="@+id/exportToPdfButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Экспорт в PDF"
+        android:layout_gravity="right"/>
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
